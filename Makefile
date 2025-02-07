@@ -4,6 +4,6 @@
 test:
 	pytest --maxfail=1 --disable-warnings -q
 
-# Executa a aplicação (demonstra um exemplo de uso)
+# Executa a aplicação 
 run:
 	python test_sorveteria.py
