@@ -18,11 +18,11 @@ Este projeto implementa um sistema para gerenciamento de uma sorveteria. O siste
 - **make** (para utilizar o Makefile; no Windows, recomenda-se usar o Git Bash ou instalar o make via Chocolatey ou MSYS2)
 
 ## Executando a Aplicação
-Para executar a aplicação, você pode usar o comando: make run
+Para executar a aplicação, você pode usar o comando: **make run**
 Isso irá executar o arquivo Sorveteria.py. 
-Alternativamente, você pode rodar: python Sorveteria.py
+Alternativamente, você pode rodar: **python Sorveteria.py**
 
 # Executando os Testes
-Os testes unitários são escritos utilizando o pytest e estão no arquivo test_Sorveteria.py. Para executá-los, use: make test
+Os testes unitários são escritos utilizando o pytest e estão no arquivo test_Sorveteria.py. Para executá-los, use: **make test**
 
 
